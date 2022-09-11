@@ -1,9 +1,9 @@
 const { modul } = require('../Edit/module');
 const { chalk, fs, proces } = modul;
 
-global.ownerNumber = ["6282399255216@s.whatsapp.net"]
-global.namabotnya = 'Cyber Is Real'
-global.namaownernya = 'Cyber Executed'
+global.ownerNumber = ["6285892778812@s.whatsapp.net"]
+global.namabotnya = 'Bagas Is Real'
+global.namaownernya = 'Bagas Executed'
 global.packname = '\n\n\n\n\n\n\n\n\n\n© Cyber||+62🇲🇨\nI`m From Indonesia\n\n\n\n\n\n\n\n\n\n'
 global.author = '\n\n\n\n\n\n\n\n\n\nWa : 0823-9925-5216\nYT : Cyber S-C-D-B\n\n\n\n\n\n\n\n\n\n'
 global.sessionName = 'CyberExe'
@@ -17,7 +17,7 @@ global.website = 'https://bit.ly/3yk3gOo'
 global.github = 'https://bit.ly/3FqVBj8'
 global.noown = 'https://wa.me/6282399255216'
 global.region = 'I`m From Indonesia'
-global.prefa = ['','!','.','#','-','�?']
+global.prefa = ['','!','.','#','-','�?']
 global.api = 
 {
     success: '```Success✅```',
